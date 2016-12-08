@@ -1,0 +1,23 @@
+{
+  "name": "maths-cli",
+  "version": "1.0.0",
+  "description": "a simple command line calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimbergee/maths-cli.git"
+  },
+  "author": "kimber gee",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "maths": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kimbergee/maths-cli/issues"
+  },
+  "homepage": "https://github.com/kimbergee/maths-cli#readme"
+}
